@@ -8,4 +8,4 @@ I love learning new things🤯.
 
 Right now it Master degree🧑‍🎓 in finance📉 and machine learning🤖.
 
-You can find more about me at [my personal web page](https://miika.virpio.fi).
+You can find more about me at [miika.virpio.fi](https://miika.virpio.fi).
